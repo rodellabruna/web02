@@ -1,0 +1,94 @@
+-> concluir a página da Vitrine:
+inserir todos os outros produtos,
+DUVIDA: como filtrar automaticamente pela categoria = "Disco de Vinil"
+arrumar as fotos: todas tem que ficar .jpg e estar com o mesmo número do banco de dados
+DUVIDA: como alterar para "Produto indisponível" para valor == 0?
+
+-> página cadastrar cliente:
+DUVIDA: precisa que apareça a lista de cliente no site ou somente no banco de dados quando a pessoa se cadastrar?
+
+-> página da busca: 
+DUVIDA: precisa fazer?
+
+-> página da cesta:
+Como fazer a quantidade vezes o valor? e as contas em si?
+
+-> dúvida do pedido:
+Pode ser a página do pagamento
+
+
+-> página do PRODUTO é diferente da página da Vitrine, correto?
+
+
+    {
+        "nome": "Michael Jackson | BAD",
+        "descricao": "BAD!!! Lançado em 1987, este álbum é um dos marcos na história da música pop e representou um ponto de virada na carreira de Jackson, consolidando-o como o Rei do Pop",
+        "categoria": "Fita k7",
+        "tipo_produto": "Fita k7",
+        "marca": "Sony Music",
+        "cor": "Branco",
+        "material_principal": "Fita k7",
+        "observacao": "Produto novo! Raridade",
+        "preco": 640.0
+    },
+
+{
+        "id_produto": 153,
+        "nome": "Information Society | Repetition",
+        "descricao": "O álbum Repetition é o terceiro álbum de estúdio da banda Information Society, lançado em 1989.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Gravadora Sony",
+        "cor": "preto",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 70.0
+    },
+    {
+        "id_produto": 156,
+        "nome": "Commodores | Natural High",
+        "descricao": "O álbum Natural High é o sexto álbum de estúdio da lendária banda de soul e funk, Commodores. ",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Gravadora Sony",
+        "cor": "preto",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 120.0
+    },
+    {
+        "id_produto": 158,
+        "nome": "Michael Jackson | Leave Me Alone",
+        "descricao": "Leave Me Alone é uma das canções mais notáveis do icônico artista Michael Jackson, mas, vale notar que ela não faz parte de um álbum específico de Jackson.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Gravadora Sony",
+        "cor": "preto",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 70.0
+    },
+    {
+        "id_produto": 159,
+        "nome": "Réplica Jaqueta Thriller",
+        "descricao": "Você quer ter um pedaço do legado de Michael Jackson e fazer uma declaração de moda",
+        "categoria": "Acessórios",
+        "tipo_produto": "Jaqueta",
+        "marca": "Ts Rock Heroes",
+        "cor": "Vermelho",
+        "material_principal": "Couro sintético",
+        "observacao": "Atenção: peça feita sob encomenda! Prazo para confecção: 10 dias!",
+        "preco": 640.0
+    },
+    {
+        "id_produto": 203,
+        "nome": "Michael Jackson | BAD",
+        "descricao": "BAD!!! Lançado em 1987, este álbum é um dos marcos na história da música pop e representou um ponto de virada na carreira de Jackson, consolidando-o como o Rei do Pop",
+        "categoria": "Fita k7",
+        "tipo_produto": "Fita k7",
+        "marca": "Sony Music",
+        "cor": "Branco",
+        "material_principal": "Fita k7",
+        "observacao": "Produto novo! Raridade",
+        "preco": 640.0
+    }
