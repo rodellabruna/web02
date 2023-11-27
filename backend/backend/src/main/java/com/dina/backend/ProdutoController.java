@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
  
 @RestController
@@ -44,6 +45,7 @@ public class ProdutoController {
             else
                 return ResponseEntity.ok(new ProdutoEntity()); 
     }
+
     @GetMapping("/api/produto/lista")
     public ResponseEntity<List<ProdutoEntity>> 
         lista(){
@@ -56,5 +58,13 @@ public class ProdutoController {
         String mensagem = "produto removido da base";
         return ResponseEntity.ok(mensagem);    
     }
+
+    @PostMapping("/api/produtos")
+    public ResponseEntity<String> inserirVarios(@RequestBody List<ProdutoEntity> produto) {
+    repository.saveAll(produto);
+    String mensagem = "Produtos cadastrados";
+    return ResponseEntity.ok(mensagem);
+}
+
 
 }

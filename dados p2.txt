@@ -1,0 +1,180 @@
+[
+{
+        "nome": "Michael Jackson | BAD",
+        "descricao": "BAD! Lançado em 1987, este álbum é um dos marcos na história da música pop e representou um ponto de virada na carreira de Jackson, consolidando-o como o Rei do Pop",
+        "categoria": "Fita k7",
+        "tipo_produto": "Fita k7",
+        "marca": "Sony Music",
+        "cor": "Branco",
+        "material_principal": "Fita Magnética",
+        "observacao": "Produto novo! Raridade",
+        "preco": 100.0
+    },
+
+{
+        "nome": "Information Society | Repetition",
+        "descricao": "O álbum Repetition é o terceiro álbum de estúdio da banda Information Society, lançado em 1989.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Sony Music",
+        "cor": "preto",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 70.0
+    },
+    {
+        "nome": "Commodores | Natural High",
+        "descricao": "O álbum Natural High é o sexto álbum de estúdio da lendária banda de soul e funk, Commodores. ",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Sony Music",
+        "cor": "preto",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 120.0
+    },
+    {
+        "nome": "Michael Jackson | Leave Me Alone",
+        "descricao": "Leave Me Alone é uma das canções mais notáveis do icônico artista Michael Jackson, mas, vale notar que ela não faz parte de um álbum específico de Jackson.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Sony Music",
+        "cor": "preto",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 70.0
+    },
+    {
+        "nome": "Chico Buarque | Vida",
+        "descricao": "O álbum Vida é um álbum do músico brasileiro Chico Buarque, lançado em 198O álbum traz músicas que se tornaram grandes sucessos de Chico, como Bastidores e Morena de Angola.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Philip Records",
+        "cor": "Branco",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 80.0
+    },
+    {
+        "nome": "Uriah Heep | Sweet Freedom",
+        "descricao": "Sweet Freedom é o 10° álbum de estúdio da banda britânica de rock progressivo e hard rock. O álbum foi lançado em 1973 e é considerado um dos trabalhos marcantes da carreira da banda.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Philip Records",
+        "cor": "Branco",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 140.0
+    },
+  {
+        "nome": "Boston Pops Orchestra | Living Stereo Pops: Stoppers!",
+        "descricao": "é uma gravação clássica, conduzida pelo renomado maestro Arthur Fiedler. Este álbum faz parte da série Living Stereo da RCA Victor, que foi conhecida por suas gravações de alta fidelidade e qualidade sonora excepcional.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Philip Records",
+        "cor": "Branco",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 70.0
+    },
+  {
+        "nome": "Bert Kaempfert | Kaempfert 76",
+        "descricao": "47º álbum de studio contém composições inéditas do trompetista e outras mais famosas do ano anterior como Fly Robin Fly do trio Silver Convention",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "MCA Records",
+        "cor": "Branco",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 75.0
+    },
+{
+        "nome": "Jackson 5 | Greatest Hits",
+        "descricao": "Coletânea de sucesso lançada em 1971. J5 era uma popular banda de soul e pop que consistia em cinco irmãos talentosos, incluindo o lendário cantor Michael Jackson.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Motown Records",
+        "cor": "Amaralo e Azul",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 230.0
+    },
+{
+        "nome": "The Manhattans | Greatest Hits",
+        "descricao": "Coletânea lançada em 1980, reúne alguns dos maiores sucessos da banda de R&B e soul. Estilo romântico e suave, com harmonias vocais distintas e letras emotivas, e este álbum destaca alguns de seus singles mais populares.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Sony Music",
+        "cor": "Amaralo e Azul",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 40.0
+    },
+{
+        "nome": "Tina Turner | Foreign Affair",
+        "descricao": "7º álbum de estúdio lançado em 1989. O álbum Foreign Affair é conhecido por sua mistura de rock, pop e soul, com destaque para a poderosa voz de Tina Turner e suas performances cativantes.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Capitol Records",
+        "cor": "Amaralo e Azul",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 60.0
+ },
+{
+        "nome": "Percy Faith | Música Continental",
+        "descricao": "Lançado em 1958, é uma obra icônica da música instrumental que encapsula a sensibilidade e o talento do maestro e compositor Percy Faith, misturando elementos de orquestração exuberante, melodias envolventes e arranjos sofisticados.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "Columbia",
+        "cor": "Amaralo e Azul",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 100.0
+    },
+{
+        "nome": "Herb Alpert & The Tijuana Brass | Greatest Hits",
+        "descricao": "É uma coletânea de sucesso lançada em 1970 que destaca as melhores músicas do grupo liderado pelo trompetista e compositor Herb Alpert. Herb Alpert & The Tijuana Brass eram conhecidos por sua música instrumental cativante.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "A&M Records",
+        "cor": "Amaralo e Azul",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 250.0
+    },
+{
+        "nome": "Simply Red | The New Flame",
+        "descricao": "3º álbum de estúdio da banda, lançado em 1989, foi um sucesso comercial e contribuiu significativamente para o crescimento da popularidade da banda na cena musical internacional com estilo de música pop e soul.",
+        "categoria": "Disco de Vinil",
+        "tipo_produto": "Disco",
+        "marca": "A&M Records",
+        "cor": "Amaralo e Azul",
+        "material_principal": "Vinil",
+        "observacao": "Atenção: produto usado. Pode conter marcas de uso",
+        "preco": 80.0
+    },
+{
+        "nome": "Replica Jaqueta Michael Jackson",
+        "descricao": "Você quer fazer uma declaração de moda única? Apresentamos a Jaqueta Thriller - a peça de vestuário icônica que celebra o álbum mais lendário da história da música, lançado no final de 1982.",
+        "categoria": "Acessorio",
+        "tipo_produto": "Jaqueta",
+        "marca": "Ts Rock Heroes",
+        "cor": "vermelho",
+        "material_principal": "Couro Sintético",
+        "observacao": "Atenção: peça feita sob encomenda. Prazo para confecção: 10 dias!",
+        "preco": 240.0
+    },
+{
+        "nome": "Michael Jackson | Funko Pop!",
+        "descricao": "Colecionável que captura a icônica imagem de Michael Jackson, apresenta os traços distintivos do Rei do Pop, incluindo seu estilo de cabelo, possui 10 cm de altura.",
+        "categoria": "Acessorio",
+        "tipo_produto": "Boneco colecionavel",
+        "marca": "Funko",
+        "cor": "vermelho",
+        "material_principal": "Vinil",
+        "observacao": "Item para colecionador!",
+        "preco": 100.0
+    }
+]
+
