@@ -158,7 +158,7 @@
         "nome": "Replica Jaqueta Michael Jackson",
         "descricao": "Você quer fazer uma declaração de moda única? Apresentamos a Jaqueta Thriller - a peça de vestuário icônica que celebra o álbum mais lendário da história da música, lançado no final de 1982.",
         "categoria": "Acessorio",
-        "tipo_produto": "Jaqueta",
+        "tipo_produto": "Roupa",
         "marca": "Ts Rock Heroes",
         "cor": "vermelho",
         "material_principal": "Couro Sintético",
@@ -177,4 +177,5 @@
         "preco": 100.0
     }
 ]
+
 

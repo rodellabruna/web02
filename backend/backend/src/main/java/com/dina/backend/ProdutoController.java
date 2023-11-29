@@ -22,6 +22,33 @@ public class ProdutoController {
     @Autowired
     ProdutoRepository repository;
 
+    // @GetMapping("/api/produto")
+    // public ResponseEntity<List<ProdutoEntity>> 
+    //     listar(){
+    //     List<ProdutoEntity> lista = repository.findAll();
+    //     return ResponseEntity.ok(lista);
+    // }
+
+    @GetMapping("/api/produto")
+    public ResponseEntity<List<ProdutoEntity>> listar
+    (@RequestParam(required = false) String search,
+    @RequestParam(required = false) String categoria) {
+        List<ProdutoEntity> produtos;
+
+        if ((search == null || search.isEmpty()) && (categoria == null || categoria.isEmpty())) {
+            produtos = repository.findAll();
+        } else if (search != null && !search.isEmpty()) {
+            produtos = repository.findByNomeContainingIgnoreCase(search);
+        } else if (categoria != null && !categoria.isEmpty()) {
+            produtos = repository.findByCategoriaContainingIgnoreCase(categoria);
+        } else {
+            // Se nenhum parâmetro for passado, retorna todos os produtos
+            produtos = repository.findAll();
+        }
+    
+        return ResponseEntity.ok(produtos);
+    }
+
     @PostMapping("/api/produto")
     public ResponseEntity<String> 
         inserir(@RequestBody ProdutoEntity obj){
@@ -46,12 +73,6 @@ public class ProdutoController {
                 return ResponseEntity.ok(new ProdutoEntity()); 
     }
 
-    @GetMapping("/api/produto/lista")
-    public ResponseEntity<List<ProdutoEntity>> 
-        lista(){
-        List<ProdutoEntity> lista = repository.findAll();
-        return ResponseEntity.ok(lista);
-    }
     @DeleteMapping("/api/produto/{id_produto}")
     public ResponseEntity<String> remover(@PathVariable int id_produto){
         repository.deleteById(id_produto);
@@ -64,7 +85,7 @@ public class ProdutoController {
     repository.saveAll(produto);
     String mensagem = "Produtos cadastrados";
     return ResponseEntity.ok(mensagem);
-}
+    }
 
 
 }
