@@ -175,7 +175,22 @@
         "material_principal": "Vinil",
         "observacao": "Item para colecionador!",
         "preco": 100.0
+    },
+{
+        "nome": "Camiseta Michael Jackson",
+        "descricao": "Camiseta Personalizada com o Rei do Pop em um dos clipes mais marcates de todos os tempos!",
+        "categoria": "Acessorio",
+        "tipo_produto": "Roupa",
+        "marca": "Hering",
+        "cor": "preta",
+        "material_principal": "Algodão",
+        "observacao": "Atenção: peça feita sob encomenda. Prazo para confecção: 10 dias!",
+        "preco": 80.0
     }
+
+
 ]
+
+
 
 
