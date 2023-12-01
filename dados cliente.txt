@@ -1,0 +1,37 @@
+{
+"nome":"teste1",
+"email":"teste@teste.com.br",
+"senha":"123456",
+"CPF":"147258369-78",
+"Numero":"15",
+"Estado":"São Paulo",
+"CEP":"12312-123",
+"Complemento":"10",
+"ConfirmarSenha:"123456"
+}
+
+vai ter nome da rua?
+Olhar formulário
+
+simplificar = 1 senha só já tá bão
+
+create database dinadiscos1;
+use dinadiscos1;
+
+use dinadiscos;
+drop database dinadiscos;
+
+
+
+select * from cliente;
+drop table cliente;
+
+drop table produto;
+select * from produto;
+
+select * from pedido;
+drop table pedido;
+	
+
+create database loja;
+use loja;
